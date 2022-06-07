@@ -27,3 +27,8 @@ font-size: 100px;
     width: 120%;
     height: 100%;
 }
+@media (min-width:0px) and (max-width:840px) {
+    .form{
+        width: 100%;
+    }
+ }
