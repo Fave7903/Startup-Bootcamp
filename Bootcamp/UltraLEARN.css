@@ -1,0 +1,29 @@
+body,nav{
+    color:rgb(151, 90, 208);
+}
+.bigtext{
+    font-size: 130px;
+}
+.text{
+font-size: 100px;
+}
+.button{
+    color: white;
+    background-color: rgb(151, 90, 208);
+    border-radius: 8px;
+    font-size: larger;
+}
+.button2{
+    background-color: white;
+    color:rgb(151, 90, 208);
+    border-radius: 8px;
+    font-size:larger;
+}
+.color{
+    color: rgb(151, 90, 208);
+
+}
+.img{
+    width: 120%;
+    height: 100%;
+}
